@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.8) 100%),url("../media/Cat-White-Background-Images.jpg");
+}
+.bg-cover {
+   background-attachment: static;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}

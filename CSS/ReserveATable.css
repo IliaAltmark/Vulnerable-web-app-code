@@ -1,0 +1,19 @@
+.btn{
+	color: white;
+	background-color: #94652F;
+	border-color: #94652F;
+	display: block;
+	margin: auto;
+}
+#userdate{
+	text-align: left;
+}
+#usertime{
+	text-align: left;
+}
+.headers{
+  font-weight: bold;
+}
+h6.headers{
+  color: #ff471a;
+}

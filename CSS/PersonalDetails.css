@@ -1,0 +1,13 @@
+.btn{
+	color: white;
+	background-color: #94652F;
+	border-color: #94652F;
+	display: block;
+	margin: auto;
+}
+h6.headers{
+  color: #ff471a;
+}
+.headers{
+  font-weight: bold;
+}
